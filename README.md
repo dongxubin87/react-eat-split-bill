@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-###I just completed this small exercise by following the struction. I still need to do it at least one time to be more familar with that.
+### I just completed this small exercise by following the struction. I still need to do it at least one time to be more familar with that.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
